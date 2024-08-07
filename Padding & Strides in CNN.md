@@ -16,6 +16,8 @@
 
 * `We will add zero, also called zero padding`
 ![image](https://github.com/user-attachments/assets/6dc6a7d6-e177-4bf2-85f4-7399d2b345f7)
+![image](https://github.com/user-attachments/assets/42974aeb-6a49-4981-9242-302d9bca11cf)
+
 
 # **Types of padding**
 * `Valid (No padding) [ n - m + 1 ]`
